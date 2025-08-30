@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👩‍💻 Tasnim Priya
 
-<!--
-**TasnimPriya/TasnimPriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C++ | Java | Oracle | C# Development**
 
-Here are some ideas to get you started:
+Hi, I’m **Tasnim Priya**, a passionate developer with experience in multiple programming languages and database technologies.  
+Currently, I’m focusing on **C# development** and expanding my expertise in modern application building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies
+- **Programming Languages:** C++, Java, C#
+- **Database:** Oracle
+- **Development Areas:** Application Development, Object-Oriented Programming, Database Management
+
+---
+
+## 📌 Current Focus
+🌱 Learning & working on **C# application development** with a goal to build efficient, scalable, and user-friendly software solutions.  
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](#)  
+- 📧 Email: *your-email-here*  
+
+---
+
+⭐️ *“Always eager to learn, build, and grow as a developer.”*
