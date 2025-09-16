@@ -21,8 +21,7 @@ Currently, I’m focusing on **C# development** and expanding my expertise in mo
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](#)  
-- 📧 Email: *your-email-here*  
-
+- 📧 Email:
 ---
 
 ⭐️ *“Always eager to learn, build, and grow as a developer.”*
